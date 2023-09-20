@@ -1,0 +1,6 @@
+amazon:
+  dynamodb:
+    endpoint:
+  aws:
+    accesskey:
+    secretkey:
